@@ -13,4 +13,4 @@ I’m passionate about open source and curious about all things interesting. I a
 ## 😆 Open Source Contributions
 
 - 🧩 **Committer** for:
-  - [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba)
+  - [Spring Cloud Alibaba](https://github.com/alibaba/spring-ai-alibaba)
