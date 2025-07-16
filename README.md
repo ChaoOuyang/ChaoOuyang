@@ -1,39 +1,16 @@
-# 👋 Hi, I'm ChaoOuyang
+# Hi there, I'm ChaoOuyang 👋
 
-🎯 A passionate backend developer with a focus on **Java**, open-source, and scalable architecture.
+I’m passionate about open source and curious about all things interesting. I aspire to build things that are memorable and meaningful.
 
----
+## 😉 About Me
 
-## 🧠 About Me
+- 🔭 Currently contributing to several open-source projects and preparing for full-time work.
+- 🌱 Exploring **Java** and **Python** ecosystems.
+- 🍃 Learning about **Service Mesh**, **Envoy**, and **Spring Cloud Alibaba**.
+- ❤️ I enjoy eating 😍, coding 💻, riding 🚴.
+- 💬 Feel free to reach out — happy to connect and collaborate!
 
-- 🔧 Mainly working with **Java / Spring Boot / Distributed Systems**
-- 🚀 Contributor to [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
-- 🛠️ Passionate about clean code, AI integration, and developer tools
-- 📚 Always learning and sharing through code and writing
+## 😆 Open Source Contributions
 
----
-
-## 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-%23181717.svg?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 🔗 Open Source Contribution
-
-- 🎯 [`spring-ai-alibaba`](https://github.com/alibaba/spring-ai-alibaba): AI-native Spring integration with Alibaba ecosystem.
-
----
-
-## 📫 Let's Connect
-
-- GitHub: [@ChaoOuyang](https://github.com/ChaoOuyang)
-- Blog / Notes: *Coming soon*
-
----
-
-_“知行合一（Unity of Knowledge and Action）” — My code reflects what I believe._
+- 🧩 **Committer** for:
+  - [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba)
