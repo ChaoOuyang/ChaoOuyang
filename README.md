@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chao Ouyang
 
-🚀 A passionate Frontend Developer | 📱 WeChat Mini Program Developer | 🌱 Open Source Contributor
+🚀 Java Developer | 🌱 Open Source Contributor
 
 ## 🛠 Tech Stack
 
@@ -11,15 +11,13 @@
 
 ## 🔥 GitHub Stats
 
-![Chao's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight)
+![Chao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaoOuyang&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoOuyang&layout=compact&theme=tokyonight)
 
 ## 📫 Contact
-
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📬 Email: youremail@example.com
-- 📘 Blog: [yourblog.com](https://yourblog.com)
+ 
+- 📬 Email: chao_oy@163.com 
 
 ---
 
-⭐️ From [你的GitHub用户名](https://github.com/你的GitHub用户名)
+⭐️ From [ChaoOuyang](https://github.com/ChaoOuyang)
