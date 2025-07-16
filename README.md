@@ -1,23 +1,39 @@
-# 👋 Hi, I'm Chao Ouyang
+# 👋 Hi, I'm ChaoOuyang
 
-🚀 Java Developer | 🌱 Open Source Contributor
-
-## 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js)
-![Mini Program](https://img.shields.io/badge/-WeChat_Mini_Program-07C160?style=flat-square&logo=wechat)
-
-## 🔥 GitHub Stats
-
-![Chao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaoOuyang&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoOuyang&layout=compact&theme=tokyonight)
-
-## 📫 Contact
- 
-- 📬 Email: chao_oy@163.com 
+🎯 A passionate backend developer with a focus on **Java**, open-source, and scalable architecture.
 
 ---
 
-⭐️ From [ChaoOuyang](https://github.com/ChaoOuyang)
+## 🧠 About Me
+
+- 🔧 Mainly working with **Java / Spring Boot / Distributed Systems**
+- 🚀 Contributor to [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+- 🛠️ Passionate about clean code, AI integration, and developer tools
+- 📚 Always learning and sharing through code and writing
+
+---
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23181717.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 🔗 Open Source Contribution
+
+- 🎯 [`spring-ai-alibaba`](https://github.com/alibaba/spring-ai-alibaba): AI-native Spring integration with Alibaba ecosystem.
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [@ChaoOuyang](https://github.com/ChaoOuyang)
+- Blog / Notes: *Coming soon*
+
+---
+
+_“知行合一（Unity of Knowledge and Action）” — My code reflects what I believe._
